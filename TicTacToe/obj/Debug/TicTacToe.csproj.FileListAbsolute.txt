@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\User\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\User\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\User\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.StartWindow.resources
+C:\Users\User\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\User\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\User\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\User\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.manifest
+C:\Users\User\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.application
+C:\Users\User\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe.manifest
+C:\Users\User\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.application

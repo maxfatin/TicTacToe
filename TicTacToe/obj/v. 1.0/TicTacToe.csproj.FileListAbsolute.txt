@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\TicTacToe\TicTacToe\bin\v. 1.0\TicTacToe.exe.config
+C:\Users\User\source\repos\TicTacToe\TicTacToe\bin\v. 1.0\TicTacToe.exe.manifest
+C:\Users\User\source\repos\TicTacToe\TicTacToe\bin\v. 1.0\TicTacToe.application
+C:\Users\User\source\repos\TicTacToe\TicTacToe\bin\v. 1.0\TicTacToe.exe
+C:\Users\User\source\repos\TicTacToe\TicTacToe\bin\v. 1.0\TicTacToe.pdb
+C:\Users\User\source\repos\TicTacToe\TicTacToe\obj\v. 1.0\TicTacToe.StartWindow.resources
+C:\Users\User\source\repos\TicTacToe\TicTacToe\obj\v. 1.0\TicTacToe.Properties.Resources.resources
+C:\Users\User\source\repos\TicTacToe\TicTacToe\obj\v. 1.0\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\TicTacToe\TicTacToe\obj\v. 1.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TicTacToe\TicTacToe\obj\v. 1.0\TicTacToe.exe.manifest
+C:\Users\User\source\repos\TicTacToe\TicTacToe\obj\v. 1.0\TicTacToe.application
+C:\Users\User\source\repos\TicTacToe\TicTacToe\obj\v. 1.0\TicTacToe.exe
+C:\Users\User\source\repos\TicTacToe\TicTacToe\obj\v. 1.0\TicTacToe.pdb
